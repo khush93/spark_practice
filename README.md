@@ -3,7 +3,7 @@ Basic transformations using Spark DataFrames
 
 ### Data source :
 
-[Review Data from e-commerce]([https://www.google.com](http://jmcauley.ucsd.edu/data/amazon/links.html)http://jmcauley.ucsd.edu/data/amazon/links.html)
+[Review Data from e-commerce](http://jmcauley.ucsd.edu/data/amazon/links.html)
 
 ### Transformations used :
 
